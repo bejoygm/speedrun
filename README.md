@@ -294,6 +294,8 @@ Total Points earned: 0
 * [ ] Cracking the IT Architect Interview
 * [ ] Coding Interview Questions
 
+### Programming Texts
+* [ ] __Currently in Progress -__ Book of Proofs
 ### Literature
 
 * [ ] A Brief History of the Western World
