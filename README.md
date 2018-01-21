@@ -4,11 +4,11 @@ In each folder, separated by year, are my notes, etc related to what I'm studyin
 
 ## 2018
 
-My dual main goals are to A) study algorithms in depth and B) study web development. To that end, I am including a variety of Computer Science and Mathematics, with no prescribed order. I'll just select the next course in whatever list I'm most inspired to continue each time I'm ready to progress to a new course. (I've selected all three MITOCW lists from the course-paths, and I'll be hopping between them willy-nilly.)
+My dual main goals are to A) study algorithms in depth and B) study web development.
 
 ## Progress
 
-Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
+Current Course: [Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)  
 Courses Completed: 0  
 Total Points earned: 0
 
@@ -19,7 +19,7 @@ Total Points earned: 0
 
 ### MITOCW Computer Science
 
-* [ ] __Currently in Progress -__ [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [ ] __Currently in Progress -__ [Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] [Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
@@ -69,31 +69,6 @@ Total Points earned: 0
 * [ ] [Algebraic Combinatorics](https://ocw.mit.edu/courses/mathematics/18-312-algebraic-combinatorics-spring-2009/)
 * [ ] [Infinite Random Matrix Theory](https://ocw.mit.edu/courses/mathematics/18-338j-infinite-random-matrix-theory-fall-2004/)
 
-### MITOCW Physics
-
-* [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-* [ ] [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
-* [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-* [ ] [Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-022-physics-ii-electricity-and-magnetism-fall-2006/index.htm)
-* [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
-* [ ] [Physics III: Vibrations and Waves](http://mit.espe.edu.ec/courses/physics/8-03-physics-iii-vibrations-and-waves-fall-2004/index.htm)
-* [ ] [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/)
-* [ ] [Statistical Physics I](https://ocw.mit.edu/courses/physics/8-044-statistical-physics-i-spring-2013/)
-* [ ] [Classical Mechanics II](https://ocw.mit.edu/courses/physics/8-223-classical-mechanics-ii-january-iap-2017/index.htm)
-* [ ] [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/index.htm)
-* [ ] [Classical Mechanics III](https://ocw.mit.edu/courses/physics/8-09-classical-mechanics-iii-fall-2014/)
-* [ ] [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2016/)
-* [ ] [Electromagnetism II](https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/)
-* [ ] [Statistical Physics II](https://ocw.mit.edu/courses/physics/8-08-statistical-physics-ii-spring-2005/)
-* [ ] [Einstein, Oppenheimer, Feynman](https://ocw.mit.edu/courses/science-technology-and-society/sts-042j-einstein-oppenheimer-feynman-physics-in-the-20th-century-spring-2011/)
-* [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-* [ ] [Quantum Theory I](https://ocw.mit.edu/courses/physics/8-321-quantum-theory-i-fall-2002/)
-* [ ] [Quantum Theory II](https://ocw.mit.edu/courses/physics/8-322-quantum-theory-ii-spring-2003/)
-* [ ] [Relativistic Quantum Field Theory I](https://ocw.mit.edu/courses/physics/8-323-relativistic-quantum-field-theory-i-spring-2008/)
-* [ ] [Relativistic Quantum Field Theory II](https://ocw.mit.edu/courses/physics/8-324-relativistic-quantum-field-theory-ii-fall-2010/)
-* [ ] [Relativistic Quantum Field Theory III](https://ocw.mit.edu/courses/physics/8-325-relativistic-quantum-field-theory-iii-spring-2007/)
-* [ ] [String Theory and Holographic Duality](https://ocw.mit.edu/courses/physics/8-821-string-theory-and-holographic-duality-fall-2014/)
-* [ ] [Effective Field Theory](https://ocw.mit.edu/courses/physics/8-851-effective-field-theory-spring-2013/)
 
 ## Rules
 
@@ -109,7 +84,6 @@ Total Points earned: 0
 | Substantial Project                                            | 200                   | project       |
 | Large Project                                                  | 300                   | project       |
 | Gigantic Project                                               | 400                   | project       |
-| Duolingo or MosaLingua (1 level)                               | 100                   | foundation    |
 | Book                                                           | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)              | 500                   | foundation    |
