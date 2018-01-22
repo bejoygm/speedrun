@@ -10,12 +10,12 @@ My dual main goals are to A) study algorithms in depth and B) study web developm
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)  
 Courses Completed: 0  
-Total Points earned: 0
+Total Points earned: 400
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-|               |                           |        |                                                                                                               |
-|               |                           |        |                                                                                                               |
+| 01-22-2018    | Book                      | 200    | The Ask and the Answer                                                                                        |
+| 01-22-2018    | Book                      | 200    | The Wide, Wide Sea                                                                                            |
 
 ### MITOCW Computer Science
 
@@ -270,60 +270,7 @@ Total Points earned: 0
 
 ### Programming Texts
 * [ ] __Currently in Progress -__ Book of Proofs
-### Literature
 
-* [ ] A Brief History of the Western World
-* [ ] A comparative history of world philosophy : from the Upanishads to Kant
-* [ ] A Farewell To Arms
-* [ ] A Room of One's Own
-* [ ] Alice's Adventures in Wonderland
-* [ ] America: a Narrative History
-* [ ] Antigone
-* [ ] Apology
-* [ ] Autobiography Franklin, Benjamin
-* [ ] Beloved
-* [ ] Candide
-* [ ] Confessions
-* [ ] Ethics
-* [ ] Faust
-* [ ] Frankenstein
-* [ ] Hamlet
-* [ ] Heart of Darkness
-* [ ] Huckleberry Finn
-* [ ] Invisible Man
-* [ ] Kokoro
-* [ ] Letter From the Birmingham Jail
-* [ ] Leviathan
-* [ ] Moby Dick
-* [ ] Monkey: The Journey to the West
-* [ ] My Name is Red
-* [ ] Native Son
-* [ ] Nervous Conditions
-* [ ] Neuromancer
-* [ ] Oedipus
-* [ ] On Liberty
-* [ ] One Hundred Years of Solitude
-* [ ] Orientalism
-* [ ] Origin of Species
-* [ ] Palace Walk: The Cairo Trilogy, Volume 1
-* [ ] Paradise Lost
-* [ ] Power
-* [ ] Republic
-* [ ] Steppenwolf
-* [ ] The Alchemist
-* [ ] The Arabian Nights
-* [ ] The Art of War
-* [ ] The Book of Fantasy
-* [ ] The Catcher in the Rye
-* [ ] The Clash of Civilizations
-* [ ] The Communist Manifesto
-* [ ] The Iliad
-* [ ] The Importance of Being Earnest
-* [ ] The Odyssey
-* [ ] The Prophet
-* [ ] The Satanic Verses
-* [ ] The Structure of Scientific Revolutions
-* [ ] The Tale of Kieu: A bilingual edition of Nguyen Du's Truyen Kieu
-* [ ] Things Fall Apart
-* [ ] Utilitarianism
-* [ ] Waiting for the Barbarians
+### Literature
+* [x] The Ask and the Answer
+* [x] The Wide, Wide Sea
