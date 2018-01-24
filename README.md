@@ -10,13 +10,14 @@ My dual main goals are to A) study algorithms in depth and B) study web developm
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)  
 Courses Completed: 0  
-Total Points earned: 900
+Total Points earned: 1100
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 01-22-2018    | Book                      | 200    | The Ask and the Answer                                                                                        |
 | 01-22-2018    | Book                      | 200    | The Wide, Wide Sea                                                                                            |
 | WIP           | Course                    | 500    | Introduction to Computer Science and Programming in Python                                                    |
+| 01-24-2018    | Book                      | 200    | YDKJS: Up & Going                                                                                             |
 
 ### MITOCW Computer Science
 
